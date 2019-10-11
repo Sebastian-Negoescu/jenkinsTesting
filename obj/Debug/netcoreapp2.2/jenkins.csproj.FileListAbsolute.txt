@@ -1,0 +1,16 @@
+C:\Users\s.negoescu\Desktop\learning\jenkins\bin\Debug\netcoreapp2.2\jenkins.deps.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\bin\Debug\netcoreapp2.2\jenkins.runtimeconfig.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\bin\Debug\netcoreapp2.2\jenkins.runtimeconfig.dev.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\bin\Debug\netcoreapp2.2\jenkins.dll
+C:\Users\s.negoescu\Desktop\learning\jenkins\bin\Debug\netcoreapp2.2\jenkins.pdb
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.csprojAssemblyReference.cache
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.csproj.CoreCompileInputs.cache
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.AssemblyInfoInputs.cache
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.AssemblyInfo.cs
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.dll
+C:\Users\s.negoescu\Desktop\learning\jenkins\obj\Debug\netcoreapp2.2\jenkins.pdb
+C:\Users\s.negoescu\Desktop\learning\jenkins\consoleresult\jenkins.deps.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\consoleresult\jenkins.runtimeconfig.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\consoleresult\jenkins.runtimeconfig.dev.json
+C:\Users\s.negoescu\Desktop\learning\jenkins\consoleresult\jenkins.dll
+C:\Users\s.negoescu\Desktop\learning\jenkins\consoleresult\jenkins.pdb
