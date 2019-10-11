@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent { docker { image 'mcr.microsoft.com/dotnet/core/samples:dotnetapp'} }
     stages {
         stage('Build') {
             steps {
