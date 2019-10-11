@@ -7,13 +7,14 @@ namespace jenkins
     {
         static void Main(string[] args)
         {
-            string filename = @"";
+            string filename = @"default.html";
             StreamReader file = new StreamReader(filename);
             string line;
 
-            while ((line = file.Read()) != null) {
+            while ((line = file.ReadLine()) != null) {
                 Console.WriteLine($"{line.ToUpper()}");
             }
+            file.Close();
             Console.WriteLine("End of file...");
         }
     }
